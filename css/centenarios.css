@@ -72,3 +72,19 @@ div#contenido div h2{
 div#contenido div p{
     padding-top: 25px;
 }
+footer{
+	background-color:lightgrey;
+	font-weight:wider;
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:40px;
+    
+    padding:10px;
+}
+footer p:nth-child(1){
+    float:left;
+}
+footer p:nth-child(2){
+    float:right;
+}
